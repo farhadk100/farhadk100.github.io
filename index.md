@@ -4,6 +4,8 @@ Hello dear visitor! This is where I showcase some of my best projects I have don
 
 ## Comic City ([www.comic-city.ir](www.comic-city.ir))
 
+![Image](https://github.com/farhadk100/farhadk100.github.io/blob/main/66dedd1dc127fe9a80fed2e2d846d0ce65c82b3b.webp)
+
 ### Stack
 Flutter, Drupal 8, UI Design
 
@@ -15,8 +17,6 @@ File decryption (AES), Social Media, In-app chat, Notifications, File download, 
 
 ### More info
 The Original Project had been done in Native Android (Java) back in 2016. Here I am highlighting the rebuild it went through at 2019 using Flutter and Drupal. The app is published on Iranian app markets such as [https://cafebazaar.ir/app/ir.comic_city.comiccity?l=en](Cafebaazar) and [https://myket.ir/app/ir.comic_city.comiccity](Myket) and is available as APK download through website. ios version is not available.
-
-![Image](https://github.com/farhadk100/farhadk100.github.io/blob/main/66dedd1dc127fe9a80fed2e2d846d0ce65c82b3b.webp)
 
 You can use the [editor on GitHub](https://github.com/farhadk100/farhadk100.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
