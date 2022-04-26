@@ -4,7 +4,7 @@ Hello dear visitor! This is where I showcase some of my best projects I have don
 
 Email: ahmad.kalatiani@gmail.com
 
-## Comic City ([www.comic-city.ir](comic-city.ir))
+## Comic City ([www.comic-city.ir](https://comic-city.ir))
 
 ![Image](comic-city.jpg)
 ### Stack
@@ -35,7 +35,7 @@ Location tracking (app only would work if in certain locations), Screenshot lock
 ### More info
 This application was made for personal use and personal customers, therefore it has never been published to any app stores.
 
-## E-iac ([www.e-iac.com](e-iac.ir))
+## E-iac ([www.e-iac.com](https://e-iac.ir))
 
 ![Image](Screenshot%202022-04-26%20210714.png)
 
@@ -51,7 +51,7 @@ No screenshot or recording (both on Android and ios), JavaScript Channeling, mos
 ### More info
 The app is an online-classroom. It’s mostly a gateway that allows access to the services on the website and works as a filter to prevent recordings or unauthorized access. The ios version is available on an Iranian app market. The Android version is distributed manually to students. Given the full recording-lock on the app, not many screenshots of it are available.
 
-## Asanism ([www.asanism.com](asanism.com))
+## Asanism ([www.asanism.com](https://asanism.com))
 
 ![Image](asanism.jpg)
 
