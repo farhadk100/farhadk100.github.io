@@ -1,6 +1,22 @@
-# Ahmad Kalatiani | Projects
+# Ahmad Kalatiani | Showcase
 
-# Comic City [www.comic-city.ir]((www.comic-city.ir))
+Hello dear visitor! This is where I showcase some of my best projects I have done. I hope you enjoy what you see! If you need any more information, do not hesitate to contact me!
+
+## Comic City ([www.comic-city.ir](www.comic-city.ir))
+
+### Stack
+Flutter, Drupal 8, UI Design
+
+### Packages/Plugins/Libraries used
+Dio, SharedPreferences, SQFLite, Provider, Path_Provider, Permission_Handler, Cached_Network_Image, Flutter_Downloader, Flutter_Local_Notifications, Fluter_AES, Flutter_Lottie, Share_Extend, Font_Awesome_Flutter, Url_Launcher, Webview_Flutter, Pdf_Render, Photo_View, Number_Picker, Cafebazaar_Flutter, Percent_Indicator, Uni_Links, Ribbon, Flutter_Widget_From_Html_Core, Carousel_Pro, Tapsell_Plus, Toast, Check_Vpn_Connection, File_Picker, Flutter_Archive, Firebase_Core, Firebase_Analytics, Firebase_Messaging, Firebase_Crashlytics, Disk_Space, Image_Picker, Image_Cropper, Expandable, Screenshot, Extended_Image, Video_Player, Flutter_Window_Manager, Connectivity, Roller_List
+
+### Special features
+File decryption (AES), Social Media, In-app chat, Notifications, File download, In-app-purchase, In-app-advertisements, White and Dark Theme
+
+### More info
+The Original Project had been done in Native Android (Java) back in 2016. Here I am highlighting the rebuild it went through at 2019 using Flutter and Drupal. The app is published on Iranian app markets such as [https://cafebazaar.ir/app/ir.comic_city.comiccity?l=en](Cafebaazar) and [https://myket.ir/app/ir.comic_city.comiccity](Myket) and is available as APK download through website. ios version is not available.
+
+![Image](https://github.com/farhadk100/farhadk100.github.io/blob/main/66dedd1dc127fe9a80fed2e2d846d0ce65c82b3b.webp)
 
 You can use the [editor on GitHub](https://github.com/farhadk100/farhadk100.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
