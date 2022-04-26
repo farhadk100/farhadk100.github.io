@@ -4,9 +4,9 @@ Hello dear visitor! This is where I showcase some of my best projects I have don
 
 Email: ahmad.kalatiani@gmail.com
 
-## Comic City ([comic-city.ir](www.comic-city.ir))
+## Comic City ([www.comic-city.ir](comic-city.ir))
 
-![Image](https://github.com/farhadk100/farhadk100.github.io/blob/main/comic-city.jpg)
+![Image](comic-city.jpg)
 ### Stack
 Flutter, Drupal 8, UI Design
 
@@ -17,11 +17,11 @@ Dio, SharedPreferences, SQFLite, Provider, Path_Provider, Permission_Handler, Ca
 File decryption (AES), Social Media, In-app chat, Notifications, File download, In-app-purchase, In-app-advertisements, White and Dark Theme.
 
 ### More info
-The Original Project had been done in Native Android (Java) back in 2016. Here I am highlighting the rebuild it went through at 2019 using Flutter and Drupal. The app is published on Iranian app markets such as [https://cafebazaar.ir/app/ir.comic_city.comiccity?l=en](Cafebaazar) and [https://myket.ir/app/ir.comic_city.comiccity](Myket) and is available as APK download through website. ios version is not available.
+The Original Project had been done in Native Android (Java) back in 2016. Here I am highlighting the rebuild it went through at 2019 using Flutter and Drupal. The app is published on Iranian app markets such as [Cafebaazar](https://cafebazaar.ir/app/ir.comic_city.comiccity?l=en) and [Myket](https://myket.ir/app/ir.comic_city.comiccity) and is available as APK download through website. ios version is not available.
 
 ## Chabok
 
-![Image](https://github.com/farhadk100/farhadk100.github.io/blob/main/chabok.jpg)
+![Image](chabok.jpg)
 
 ### Stack
 Flutter
@@ -35,9 +35,9 @@ Location tracking (app only would work if in certain locations), Screenshot lock
 ### More info
 This application was made for personal use and personal customers, therefore it has never been published to any app stores.
 
-## E-iac ([e-iac.com](www.e-iac.ir))
+## E-iac ([www.e-iac.com](e-iac.ir))
 
-![Image](https://github.com/farhadk100/farhadk100.github.io/blob/main/Screenshot%202022-04-26%20210714.png)
+![Image](Screenshot%202022-04-26%20210714.png)
 
 ### Stack
 Flutter
@@ -51,9 +51,9 @@ No screenshot or recording (both on Android and ios), JavaScript Channeling, mos
 ### More info
 The app is an online-classroom. It’s mostly a gateway that allows access to the services on the website and works as a filter to prevent recordings or unauthorized access. The ios version is available on an Iranian app market. The Android version is distributed manually to students. Given the full recording-lock on the app, not many screenshots of it are available.
 
-## Asanism ([asanism.com](www.asanism.com))
+## Asanism ([www.asanism.com](asanism.com))
 
-![Image](https://github.com/farhadk100/farhadk100.github.io/blob/main/asanism.jpg)
+![Image](asanism.jpg)
 
 ### Stack
 Flutter, Drupal 8, UI Design
@@ -65,4 +65,4 @@ Dio, SharedPreferences, Path_Provider, Persian_DatePicker, Url_Launcher, Cached_
 A very dynamic order form.
 
 ### More info
-My very first Flutter application. Even though there were not much of specific features, but given my lack of experience in Flutter, everything was a challenge. The app has won People’s choice award on Iran’s Web and Mobile Festival (IWMF) 2021. It is available for download through Iranian Android market, [https://cafebazaar.ir/app/com.afiyatbashe.clients?l=en](Cafebazaar).
+My very first Flutter application. Even though there were not much of specific features, but given my lack of experience in Flutter, everything was a challenge. The app has won People’s choice award on Iran’s Web and Mobile Festival (IWMF) 2021. It is available for download through Iranian Android market, [Cafebazaar](https://cafebazaar.ir/app/com.afiyatbashe.clients?l=en).
